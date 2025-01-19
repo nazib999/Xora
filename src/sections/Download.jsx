@@ -14,7 +14,7 @@ const Download = () => {
           <div className="flex items-center">
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex-256 max-md:flex-100">
               <div className="mb-10">
-                <img src="/images/xora.svg" width={160} height={55} alt="" />
+                <img src="/Xora/images/xora.svg" width={160} height={55} alt="" />
               </div>
               <p className="body-1 mb-10 max-w-md">
                 Try it now for free on iOS, Android, PC, Web - whatever your
@@ -32,7 +32,7 @@ const Download = () => {
                         <Marker />
                       </span>
                       <img
-                        src={"/images/lines.svg"}
+                        src={"/Xora/images/lines.svg"}
                         alt="lines"
                         className="absolute size-13/20 object-contain"
                       />
@@ -50,7 +50,7 @@ const Download = () => {
                   <span className="download_preview-dot left-11 bg-s3" />
                   <span className="download_preview-dot left-16 bg-p1/15" />
 
-                  <img src="/images/screen.jpg" width={855} height={655} className="rounded-xl" alt="" />
+                  <img src="/Xora/images/screen.jpg" width={855} height={655} className="rounded-xl" alt="" />
                 </div>
               </div>
             </div>
